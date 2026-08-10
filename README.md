@@ -1,8 +1,8 @@
 # Hello, I'm Philip 👋
 
-I'm an **experienced web and e-commerce professional** with a background spanning front-end development, CMS publishing, digital content, product operations, and graphic design.
+I'm an **experienced web and e-commerce professional** with a background spanning web development, CMS publishing, digital content, product operations, and graphic design.
 
-At **UPLIFT Desk**, I supported large-scale e-commerce websites through front-end updates, responsive design, functional testing, CMS publishing, product configuration, launch coordination, and technical documentation. My work involved BigCommerce, Contentful, HTML, CSS, JavaScript, Git, and related tools.
+At **UPLIFT Desk**, I supported large-scale e-commerce websites through responsive updates, functional testing, CMS publishing, product configuration, launch coordination, and technical documentation. My work involved BigCommerce, Contentful, HTML, CSS, JavaScript, Git, and related tools.
 
 Earlier in my career at **Shop LC**, I worked as a Web Graphic Designer, building and maintaining e-commerce landing pages and creating digital assets for web, email, and marketing campaigns.
 
@@ -20,8 +20,6 @@ I'm continuing to deepen my front-end development skills through hands-on projec
 - Product Configuration
 - Catalog & Product Data Management
 - Technical Documentation
-- Digital Content
-- Cross-functional Collaboration
 
 ---
 
@@ -32,7 +30,6 @@ I'm continuing to deepen my front-end development skills through hands-on projec
 - HTML5
 - CSS3
 - JavaScript
-- Responsive Web Design
 
 ### Platforms
 
@@ -65,9 +62,9 @@ These case studies focus on the technical, operational, and collaborative work b
 
 ## Professional Development
 
-I'm continuing to expand my technical depth in front-end development while building on several years of professional web, e-commerce, and CMS experience.
+I'm continuing to build on several years of professional web, e-commerce, and CMS experience while expanding my technical depth in front-end development.
 
-Areas I'm continuing to deepen include:
+Areas of focus include:
 
 - JavaScript
 - Responsive Web Development
@@ -87,18 +84,6 @@ I'm also enrolled in the **McCombs School of Business Post Graduate Program in A
 I'm building an e-commerce storefront as a personal project to deepen my HTML, CSS, and JavaScript skills.
 
 The project gives me a place to apply and reinforce responsive design, semantic HTML, modern CSS, and front-end development best practices outside of production work.
-
----
-
-## About This Profile
-
-This GitHub profile reflects the intersection of my professional background in:
-
-- **Web development and digital content**
-- **E-commerce product operations and catalog management**
-- **Graphic design and digital marketing**
-
-I'm especially interested in roles where those areas overlap, including web development, website operations, CMS-driven development, e-commerce, and digital content.
 
 ---
 
