@@ -1,89 +1,49 @@
 # Hello, I'm Philip 👋
 
-I'm an **experienced web and e-commerce professional** with a background spanning web development, CMS publishing, digital content, product operations, and graphic design.
+I'm a **web and e-commerce professional** with experience across e-commerce website operations, CMS publishing, product configuration, catalog management, digital content, and front-end implementation.
 
-At **UPLIFT Desk**, I supported large-scale e-commerce websites through responsive updates, functional testing, CMS publishing, product configuration, launch coordination, and technical documentation. My work involved BigCommerce, Contentful, HTML, CSS, JavaScript, Git, and related tools.
+At **UPLIFT Desk**, I supported a large-scale e-commerce website through product launches, configurable product experiences, catalog migrations, CMS publishing, functional testing, SEO, and site QA. My work involved BigCommerce, Contentful, NetSuite, HTML, CSS, JavaScript, Git, and GitHub.
 
-Earlier in my career at **Shop LC**, I worked as a Web Graphic Designer, building and maintaining e-commerce landing pages and creating digital assets for web, email, and marketing campaigns.
-
-I'm continuing to deepen my front-end development skills through hands-on projects and professional development, with a focus on building more responsive, maintainable, and accessible web experiences.
+Earlier in my career at **Shop LC**, I worked as a Web Graphic Designer, building and maintaining responsive e-commerce landing pages and creating digital assets for web, email, and marketing campaigns.
 
 ---
 
-## What I Do
+## Experience & Technologies
 
-- Front-End Web Development
-- Responsive Web Design
+### E-commerce & CMS
+
+- BigCommerce
+- Contentful CMS
+- NetSuite ERP
 - CMS & Content Publishing
-- E-commerce Website Operations
-- Functional Testing & QA
 - Product Configuration
 - Catalog & Product Data Management
-- Technical Documentation
+- Functional Testing & QA
 
----
-
-## Technologies
-
-### Front-End
+### Web
 
 - HTML5
 - CSS3
 - JavaScript
-
-### Platforms
-
-- BigCommerce
-- Contentful
-- NetSuite
 
 ### Tools
 
 - Git
 - GitHub
 - Visual Studio Code
-- Cloudflare CDN
+
+### Deployment & Hosting
+
+- Vercel
+- Netlify
 
 ---
 
-## Featured Work
+## Current Development
 
-### UPLIFT Desk Portfolio Case Studies
+I'm continuing to strengthen my front-end development skills through JavaScript coursework and independent projects.
 
-A collection of professional case studies highlighting projects I contributed to at UPLIFT Desk:
-
-- Maintaining a configurable product ecosystem supporting 50,000+ product combinations
-- Coordinating the launch of the V3 Standing Desk Frame
-- Migrating Humanscale and Steelcase product catalogs
-
-These case studies focus on the technical, operational, and collaborative work behind complex e-commerce launches and website updates.
-
----
-
-## Professional Development
-
-I'm continuing to build on several years of professional web, e-commerce, and CMS experience while expanding my technical depth in front-end development.
-
-Areas of focus include:
-
-- JavaScript
-- Responsive Web Development
-- Semantic HTML
-- Modern CSS
-- CSS Grid
-- Flexbox
-- Git & GitHub workflows
-- Shopify administration
-
-I'm also enrolled in the **McCombs School of Business Post Graduate Program in Artificial Intelligence & Machine Learning: Business Applications**.
-
----
-
-## Front-End Project
-
-I'm building an e-commerce storefront as a personal project to deepen my HTML, CSS, and JavaScript skills.
-
-The project gives me a place to apply and reinforce responsive design, semantic HTML, modern CSS, and front-end development best practices outside of production work.
+I'm also completing the **McCombs School of Business Post Graduate Program in Artificial Intelligence & Machine Learning: Business Applications**, with applied work in Python and machine learning.
 
 ---
 
